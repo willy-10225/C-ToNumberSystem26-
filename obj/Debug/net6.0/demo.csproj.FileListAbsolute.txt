@@ -1,0 +1,15 @@
+C:\Users\swill\OneDrive\桌面\demo\bin\Debug\net6.0\demo.exe
+C:\Users\swill\OneDrive\桌面\demo\bin\Debug\net6.0\demo.deps.json
+C:\Users\swill\OneDrive\桌面\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+C:\Users\swill\OneDrive\桌面\demo\bin\Debug\net6.0\demo.dll
+C:\Users\swill\OneDrive\桌面\demo\bin\Debug\net6.0\demo.pdb
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\demo.dll
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\refint\demo.dll
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\demo.pdb
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+C:\Users\swill\OneDrive\桌面\demo\obj\Debug\net6.0\ref\demo.dll
